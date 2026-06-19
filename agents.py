@@ -13,7 +13,7 @@ if not OPENROUTER_API_KEY:
     raise ValueError("OPENROUTER_API_KEY not found")
 
 openrouter_llm = LLM(
-    model="openrouter/deepseek/deepseek-r1:free",
+    model="openrouter/openrouter/free",
     api_key=OPENROUTER_API_KEY
 )
 
