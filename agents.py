@@ -13,7 +13,7 @@ if not OPENROUTER_API_KEY:
     raise ValueError("OPENROUTER_API_KEY not found")
 
 openrouter_llm = LLM(
-    model="openrouter/deepseek/deepseek-chat-v3-0324:free",
+    model="openrouter/google/gemini-2.0-flash-exp:free",
     api_key=OPENROUTER_API_KEY
 )
 
