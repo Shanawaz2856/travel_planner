@@ -1,0 +1,6 @@
+__pycache__/
+.env
+venv/
+.travel_plan.txt
+*.pyc
+.streamlit/

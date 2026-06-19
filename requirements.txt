@@ -1,0 +1,7 @@
+streamlit
+crewai
+crewai-tools
+python-dotenv
+openai
+chromadb==0.4.24
+pydantic

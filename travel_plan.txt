@@ -1,0 +1,68 @@
+**BUDGET VALIDATION REPORT – JAIPUR → HYDERABAD SOLO TRIP**  
+
+---
+
+### 1. OBJECTIVE  
+Validate every line‑item in the provided itinerary against the actual costs, confirm that the total does not exceed the overall ₹20 000 budget (and the separate ₹2 000 activity budget), and present a corrected, fully‑itemised budget summary.
+
+---
+
+### 2. COMPONENT‑BY‑COMPONENT VERIFICATION  
+
+| **Component** | **Items listed in itinerary** | **Verified unit cost** | **Calculated sub‑total** | **Comments / Discrepancies** |
+|---------------|------------------------------|------------------------|--------------------------|------------------------------|
+| **Hotel** | 2 nights – Hotel Shanti Nivas @ ₹567/night | ₹567 × 2 = **₹1 134** | **₹1 134** | Matches the itinerary exactly. |
+| **Transport – International** | IndiGo/Air India flight (Jaipur‑Hyderabad) | **₹5 279** | – | Correct. |
+| **Transport – Airport transfer** | Pushpak AC Bus (Airport → City) | **₹300** | – | Correct. |
+| **Transport – Local** | 12 auto‑rickshaw/taxi trips @ ₹150 each (listed for every sightseeing, meal & activity) | 12 × ₹150 = **₹1 800** | **₹1 800** | The itinerary’s total transport line shows “₹6 800”, which is **₹579 short** (₹5 279 + ₹300 + ₹1 800 = ₹7 379). The correct local‑transport sub‑total is **₹1 800**, making overall transport **₹7 379**. |
+| **Food – Meals** | • Breakfast Day 1 – ₹120  <br>• Lunch Day 1 – ₹350  <br>• Dinner Day 1 – ₹400  <br>• Breakfast Day 2 – ₹180  <br>• Lunch Day 2 – ₹250  <br>• Dinner Day 2 – ₹400 | **₹1 700** (120 + 350 + 400 + 180 + 250 + 400) | **₹1 700** | Correct. |
+| **Food – Snacks / Street‑food** | Charminar Street‑Food Tour (sample biryani, samosas, chaat, sweets) – ₹200 | **₹200** | **₹200** | The “Total Food Expenditure” in the original report (₹1 700) omitted this ₹200 snack cost. Corrected food total is **₹1 900**. |
+| **Activities** | • Hussain Sagar Lake & Boat Ride – ₹500  <br>• Golconda Fort entry (incl. guide) – ₹300  <br>• Hyderabadi Biryani Cooking Workshop – ₹800 | **₹1 600** (500 + 300 + 800) | **₹1 600** | Matches the itinerary; well within the separate activity budget of ₹2 000. |
+| **Overall Activity Budget** | All activity costs | **₹1 600** | **₹1 600** | **Remaining activity budget:** ₹2 000 – ₹1 600 = **₹400**. |
+
+---
+
+### 3. REVISED TOTAL COST CALCULATION  
+
+| **Category** | **Amount (₹)** |
+|--------------|----------------|
+| Hotel (2 nights) | **1 134** |
+| Transport (flight + airport bus + local autos) | **7 379** |
+| Food (meals + snacks) | **1 900** |
+| Activities (boat + fort + workshop) | **1 600** |
+| **GRAND TOTAL** | **12 013** |
+
+**Remaining Budget**  
+₹20 000 (overall) – ₹12 013 = **₹7 987**  
+
+**Status** – **WITHIN BUDGET** (overall and activity budgets untouched). No cost‑overrun detected.
+
+---
+
+### 4. FINAL CORRECTED BUDGET SUMMARY  
+
+| **Item** | **Cost (₹)** | **Notes** |
+|----------|--------------|-----------|
+| **Accommodation** | 1 134 | 2 nights @ ₹567 |
+| **International Flight** | 5 279 | Jaipur → Hyderabad |
+| **Airport Transfer (Pushpak AC Bus)** | 300 |  |
+| **Local Transport (12 auto‑rickshaw trips)** | 1 800 | 150 × 12 |
+| **Meals (Breakfast, Lunch, Dinner – Days 1 & 2)** | 1 700 |  |
+| **Street‑Food / Snacks (Charminar Tour)** | 200 |  |
+| **Activities** | 1 600 | Boat ride, Golconda Fort, Cooking workshop |
+| **TOTAL EXPENDITURE** | **12 013** |  |
+| **REMAINING BUDGET** | **7 987** | From ₹20 000 total |
+
+---
+
+### 5. RECOMMENDATIONS (optional improvements)  
+
+1. **Negotiate airport‑to‑city fare** – many prepaid taxi services offer a fixed rate of ~₹350‑₹380, which could lower the ₹300 bus cost or replace it with a more convenient ride.  
+2. **Consolidate short trips** – bundling nearby attractions (e.g., visiting both Hussain Sagar and Buddha Statue in a single auto ride) could reduce the number of auto trips from 12 to ~10, saving ≈₹300.  
+3. **Leverage the unused activity budget (₹400)** – consider adding a low‑cost cultural experience (e.g., a local museum entry ₹150 + snacks ₹100) to enrich the itinerary without breaking the budget.  
+
+These suggestions are optional because the current plan already comfortably fits within the ₹20 000 limit.
+
+---
+
+**CONCLUSION** – After meticulous verification, the corrected total cost of the solo Jaipur → Hyderabad itinerary is **₹12 013**, leaving **₹7 987** unspent. All cost categories (hotel, transport, food, activities) are accurately reflected, and the trip remains well within both the overall and activity budgets. No cheaper alternatives are required at this time.
